@@ -16,8 +16,6 @@
 2) Open main.py in VS Code or any Python IDE.
 3) Run the script.
 
-* Follow the on-screen instructions to play the game.
-
 
 * Project Level: Beginner
   
